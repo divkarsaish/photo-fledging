@@ -1,6 +1,8 @@
 # photo-fledging
 
 Facial Recognition Grouping Algorithm
+
+
 Introduction
 In this article, we will explore a Python code snippet that utilizes the face_recognition library to capture and group similar photos based on recognized faces. The code captures a new photo, detects faces in it, compares them with known faces, and creates a new folder for each group of similar photos.
 
